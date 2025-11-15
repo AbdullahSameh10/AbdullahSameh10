@@ -13,9 +13,6 @@
 I am a Software Engineer skilled in React, PHP, HTML, CSS, JavaScript and more. <br/>
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
-
-
-
 <br clear="right"/>
       
 ## 🔧 My Tech Stack
@@ -40,13 +37,6 @@ I have worked on projects that served thousands of users, built scalable applica
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSameh&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
-
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/AbdullahSameh10?theme=dark&font=Roboto&ext=heatmap&border=0&animation=true" alt="LeetCode Stats"/>
-</div>
-
 
 ## 🔗 Connect with Me
 
