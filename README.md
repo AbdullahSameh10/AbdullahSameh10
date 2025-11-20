@@ -32,7 +32,7 @@ I have worked on projects that served thousands of users, built scalable applica
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visualstudiocode&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub States
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSameh&layout=compact&theme=dark" alt="Top Languages"/>
